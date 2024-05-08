@@ -1,0 +1,16 @@
+{
+    "name": "Enums",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e71c92d9bb91ca44c8d5caca905d9c9d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
